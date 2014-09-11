@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-just another repository
+Hola soy seba y estoy probando ser una persona
